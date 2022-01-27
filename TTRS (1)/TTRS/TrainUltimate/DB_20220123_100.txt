@@ -1,0 +1,10 @@
+PNR :DB_20220123_100
+Train No: 1002
+Train Name: Shatabdi Express
+From: Delhi
+To: Bangalore
+Travel Date: 20220123
+Passengers:
+Name		Age		Gender		Fare
+fathima		22		F		1875.0		
+Total Price: 1875.0
